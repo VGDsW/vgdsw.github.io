@@ -1,0 +1,5 @@
+# Netlify Redirects
+http://vgdsw.netlify.com/* https://vgdsw.me/:splat 301!
+https://vgdsw.netlify.com/* https://vgdsw.me/:splat 301!
+http://www.vgdsw.me/* https://vgdsw.me/:splat 301!
+https://www.vgdsw.me/* https://vgdsw.me/:splat 301!
